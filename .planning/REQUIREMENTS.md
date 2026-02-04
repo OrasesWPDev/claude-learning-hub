@@ -1,7 +1,7 @@
 # Requirements: Claude Learning Hub
 
 **Defined:** 2025-02-03
-**Core Value:** Frictionless mobile capture — if adding a link is hard, people won't do it
+**Core Value:** Frictionless mobile capture -- if adding a link is hard, people won't do it
 
 ## v1 Requirements
 
@@ -47,7 +47,7 @@ Deferred to future release. Tracked but not in current roadmap.
 
 ### Enhanced Capture
 
-- **CAPT-10**: Smart link detection — auto-capture ANY link posted to channel (not just explicit mentions)
+- **CAPT-10**: Smart link detection -- auto-capture ANY link posted to channel (not just explicit mentions)
 
 ### Enhanced Browse
 
@@ -65,7 +65,7 @@ Explicitly excluded. Documented to prevent scope creep.
 
 | Feature | Reason |
 |---------|--------|
-| Wiki/notes features | Scope creep killer — 70% of wikis fail. We're a link hub, not Notion |
+| Wiki/notes features | Scope creep killer -- 70% of wikis fail. We're a link hub, not Notion |
 | Separate user accounts | Team already in Slack. Separate accounts = friction |
 | Content hosting/media storage | We link to content, don't host it. Avoids storage/rights issues |
 | Comments/discussion threads | Discussion belongs in Slack where team communicates |
@@ -74,7 +74,7 @@ Explicitly excluded. Documented to prevent scope creep.
 | Notification system | Use Slack's native notifications |
 | Gamification (badges, leaderboards) | Feels corporate, creates perverse incentives |
 | RSS/feed generation | Validate core first, add if requested |
-| AI-generated summaries (v1) | Latency, quality varies — defer to v2 |
+| AI-generated summaries (v1) | Latency, quality varies -- defer to v2 |
 
 ## Traceability
 
@@ -82,31 +82,31 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CAPT-01 | TBD | Pending |
-| CAPT-02 | TBD | Pending |
-| CAPT-03 | TBD | Pending |
-| META-01 | TBD | Pending |
-| META-02 | TBD | Pending |
-| META-03 | TBD | Pending |
-| META-04 | TBD | Pending |
-| BRWS-01 | TBD | Pending |
-| BRWS-02 | TBD | Pending |
-| BRWS-03 | TBD | Pending |
-| BRWS-04 | TBD | Pending |
-| BRWS-05 | TBD | Pending |
-| BRWS-06 | TBD | Pending |
-| BRWS-07 | TBD | Pending |
-| ATTR-01 | TBD | Pending |
-| ATTR-02 | TBD | Pending |
-| STAT-01 | TBD | Pending |
-| STAT-02 | TBD | Pending |
-| STAT-03 | TBD | Pending |
+| CAPT-01 | Phase 3 | Pending |
+| CAPT-02 | Phase 3 | Pending |
+| CAPT-03 | Phase 3 | Pending |
+| META-01 | Phase 4 | Pending |
+| META-02 | Phase 4 | Pending |
+| META-03 | Phase 4 | Pending |
+| META-04 | Phase 4 | Pending |
+| BRWS-01 | Phase 2 | Pending |
+| BRWS-02 | Phase 2 | Pending |
+| BRWS-03 | Phase 2 | Pending |
+| BRWS-04 | Phase 2 | Pending |
+| BRWS-05 | Phase 2 | Pending |
+| BRWS-06 | Phase 2 | Pending |
+| BRWS-07 | Phase 2 | Pending |
+| ATTR-01 | Phase 1 | Pending |
+| ATTR-02 | Phase 5 | Pending |
+| STAT-01 | Phase 5 | Pending |
+| STAT-02 | Phase 5 | Pending |
+| STAT-03 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 19 total
-- Mapped to phases: 0
-- Unmapped: 19 ⚠️
+- Mapped to phases: 19
+- Unmapped: 0
 
 ---
 *Requirements defined: 2025-02-03*
-*Last updated: 2025-02-03 after initial definition*
+*Last updated: 2025-02-03 after roadmap creation*
